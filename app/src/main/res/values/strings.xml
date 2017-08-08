@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FixingConstraintView</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="addUserPhoto">Add New User Image</string>
+    <string name="addPhoto">Add Photo !</string>
+    <string name="takePhoto">Take photo from camera</string>
+    <string name="choosePhotoGallery">Choose from gallery</string>
+    <string name="name">Name</string>
+    <string name="about_you">About you...</string>
+    <string name="user_image">User Image</string>
+    <string name="namelabel">label name edit box</string>
+    <string name="aboutlabel">label about you edit box</string>
+</resources>
